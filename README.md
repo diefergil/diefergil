@@ -4,7 +4,7 @@
 **diefergil/diefergil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on data science project
+- 🔭 I’m currently working on data science projects
 - 🌱 I’m currently learning MLops and Machine learning
 - 👯 I’m looking to collaborate on non profit projects
 - 💬 Ask me about ...
