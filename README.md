@@ -15,6 +15,15 @@
 - 🔭 I’m currently working on data science project
 - 🌱 I’m currently learning MLops and Machine learning
 - 👯 I’m looking to collaborate on non profit projects
+
+# Public portfolio
+
+* [Dynamic risk price assesment](https://github.com/diefergil/dynamic-risk-assessment-system)
+* [Music genre classification](https://github.com/diefergil/genre_classification)
+* [AirBnB rental price prediction](https://github.com/diefergil/airbnb-rental-price-prediction)
+* [Census classification](https://github.com/diefergil/census_classification)
+* [Churn prediction](https://github.com/diefergil/customer_churn)
+
 ##
 
 <div style="display: inline_block"><br>
