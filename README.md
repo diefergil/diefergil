@@ -1,29 +1,31 @@
 ### Hi there, I'm Diego 👋
 
+Welcome to my GitHub! 
+
 <!--
 **diefergil/diefergil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on data science projects
-- 🌱 I’m currently learning MLops and Machine learning
-- 👯 I’m looking to collaborate on non profit projects
+- 🔭 *Currently Working On*: Data science projects focusing on real-world applications.
+- 🌱 *Learning*: Advanced techniques in MLOps and Machine Learning to enhance project scalability and efficiency and Generative AI.
+- 👯 *Collaboration*: Eager to contribute to non-profit projects with a meaningful impact.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on data science project
-- 🌱 I’m currently learning MLops and Machine learning
-- 👯 I’m looking to collaborate on non profit projects
+- 🔭 *Currently Working On*: Data science projects focusing on real-world applications.
+- 🌱 *Learning*: Advanced techniques in MLOps and Machine Learning to enhance project scalability and efficiency and Generative AI.
+- 👯 *Collaboration*: Eager to contribute to non-profit projects with a meaningful impact.
 
 # Public portfolio
 
-* [Dynamic risk price assesment](https://github.com/diefergil/dynamic-risk-assessment-system)
-* [Music genre classification](https://github.com/diefergil/genre_classification)
-* [AirBnB rental price prediction](https://github.com/diefergil/airbnb-rental-price-prediction)
-* [Census classification](https://github.com/diefergil/census_classification)
-* [Churn prediction](https://github.com/diefergil/customer_churn)
-
+* [Dynamic risk price assesment](https://github.com/diefergil/dynamic-risk-assessment-system) - Demonstrates training and deploying a sklearn model within a Flask endpoint.
+* [Music genre classification](https://github.com/diefergil/genre_classification) - Implements a reusable workflow with MLflow, W&B logging, and Hydra for running multiple configurations.
+* [AirBnB rental price prediction](https://github.com/diefergil/airbnb-rental-price-prediction) - Features a reusable workflow for predictive modeling using MLflow, W&B, and Hydra.
+* [Census classification](https://github.com/diefergil/census_classification) - An MLOps project utilizing DVC, S3, GitHub Actions, FastAPI, and deployment on Heroku.
+* [Churn prediction](https://github.com/diefergil/customer_churn) - Provides a basic structure for a customer churn prediction project.
+  
 ##
 
 <div style="display: inline_block"><br>
